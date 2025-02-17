@@ -7,7 +7,7 @@
  *
  * @author IDAT
  */
-public class PruebaPersona1 {
+public class pruebaPersona1 {
     public static void main(String[] args){
         Persona persona = new Persona("juan carlos");
         System.out.println();   
